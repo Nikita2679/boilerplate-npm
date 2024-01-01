@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Jora Cardan",
+	"author": "Jora_Cardan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
